@@ -89,12 +89,10 @@ module experiment1(a,b,f1,f2,f3,f4,f5,f6,f7);
 
 **RTL realization Output:** 
 
-![WhatsApp Image 2025-04-07 at 13 42 14_2987a897](https://github.com/user-attachments/assets/46a5fae8-862c-4981-96d7-6c2ee9067a06)
-
+![image](https://github.com/user-attachments/assets/0f496ebc-602a-422f-a7bf-738c5b8109dc)
 
 **RTL**
-
-**Result:**
 ![WhatsApp Image 2025-04-07 at 13 41 56_4f900469](https://github.com/user-attachments/assets/b6dc626d-344b-46bc-806a-cb32aa0a4df3)
-
+**Result:**
+Hence, the truth table of logic gates in Quartus II using Verilog programming is verified.
 
